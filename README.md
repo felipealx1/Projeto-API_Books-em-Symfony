@@ -1,11 +1,5 @@
 # Projeto API Books usando lingugaem PHP e Freamework Symfony
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>API Books</title>
-</head>
+
 <body>
     <h1>API Books</h1>
     <p>Este projeto é uma aplicação web desenvolvida com PHP utilizando o framework Symfony, que fornece uma API para gerenciar livros. A aplicação usa PostgreSQL como banco de dados, que é executado em um contêiner Docker com Docker Compose, e a API é construída usando o API Platform. Além disso, o Adminer 4.8.1 foi utilizado para gerenciar o banco de dados no Docker.</p>
